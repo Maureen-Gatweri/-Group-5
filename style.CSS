@@ -4,7 +4,8 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 1900px;
-  
+  color: aliceblue;
+  font-size: x-large;
   
   
 }
@@ -62,6 +63,7 @@ h3{
     padding-right: 100px; 
     padding-top: 50px;
     margin-top: 765px;
+    height: 1300px;
 }
 #page{
     display: flex;
@@ -84,3 +86,39 @@ h3{
 h1{
     font-size: 50px;
 }
+.Hike{
+   
+    display: flex;
+ padding: 150px;
+    margin-top: 10px;
+    background-color:rgb(36,36,41) ;
+    width: 87%;
+    color:aliceblue;
+    height: 1000px;
+    align-content: left;
+    font-size: 25px;
+    
+ }
+ .lovelace{
+ margin-right: 40px;
+  padding-right: 150px;
+ align-content: center;
+ padding-left:  900px;
+ margin-top: 200px;
+ padding-left: 200px;
+ 
+ 
+ }
+ .H{
+    color: rgb(145, 145, 34);
+ }
+ .image{
+    
+    margin: 150px;
+    height: 20px;
+ 
+  
+ }
+ .world{
+    color: rgb(145, 145, 34);
+ }
