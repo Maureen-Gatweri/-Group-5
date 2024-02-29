@@ -57,3 +57,30 @@ h3{
     padding-right: 15px;
     color: white;
 }
+#body{
+    background-color: rgb(36, 36, 41);
+    padding-right: 100px; 
+    padding-top: 50px;
+    margin-top: 765px;
+}
+#page{
+    display: flex;
+    color: white;
+    margin: 10%;
+}
+
+#page1{
+    padding-right: 200px;
+}
+p{
+    font-size: xx-large;
+}
+h2{
+    color: rgb(145, 145, 34);
+}
+h3{
+    color: rgb(145, 145, 34); 
+}
+h1{
+    font-size: 50px;
+}
